@@ -23,13 +23,9 @@ the wallet, your address will be shown on the webpage and the "Go to the User Pr
 On the Main Page users with TOP WEB3 NFT can write posts. They can't delete and comment them YET, but these functions will be covered in the future. Name and surname of the User that writes post will be displayed.
 <img width="1440" alt="Снимок экрана 2024-02-11 в 23 51 22" src="https://github.com/Nazken04/BT_Assignment3/assets/71633984/6db4a576-a517-4624-8384-87e4196b697c">
 <img width="1440" alt="Снимок экрана 2024-02-11 в 23 51 58" src="https://github.com/Nazken04/BT_Assignment3/assets/71633984/93f4a0aa-27f2-4d27-baa2-a6be4ce0dddb">
-
-## License
-
-[MIT]([https://choosealicense.com/licenses/mit/](https://opensource.org/license/mit/))
 <img width="1440" alt="Снимок экрана 2024-02-11 в 23 55 43" src="https://github.com/Nazken04/BT_Assignment3/assets/71633984/3dde1ec7-e01d-4665-a43c-ded8d02fe2c1">
-
-
+## License
+[MIT] https://opensource.org/license/mit/
 
 
 
